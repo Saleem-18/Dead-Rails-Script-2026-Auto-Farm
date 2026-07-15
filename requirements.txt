@@ -1,0 +1,7 @@
+cryptography
+pillow
+scipy
+lxml
+colorama
+requests
+aiohttp
